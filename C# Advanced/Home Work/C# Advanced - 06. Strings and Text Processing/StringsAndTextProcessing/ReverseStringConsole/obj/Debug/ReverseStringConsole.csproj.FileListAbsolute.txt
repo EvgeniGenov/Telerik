@@ -1,5 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseStringConsole\bin\Debug\ReverseStringConsole.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseStringConsole\bin\Debug\ReverseStringConsole.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseStringConsole\bin\Debug\ReverseStringConsole.pdb
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseStringConsole\obj\Debug\ReverseStringConsole.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseStringConsole\obj\Debug\ReverseStringConsole.pdb

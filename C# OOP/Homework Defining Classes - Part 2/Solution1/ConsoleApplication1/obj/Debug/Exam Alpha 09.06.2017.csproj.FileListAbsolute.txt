@@ -1,6 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\obj\Debug\Exam Alpha 09.06.2017.csprojResolveAssemblyReference.cache
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Solution1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

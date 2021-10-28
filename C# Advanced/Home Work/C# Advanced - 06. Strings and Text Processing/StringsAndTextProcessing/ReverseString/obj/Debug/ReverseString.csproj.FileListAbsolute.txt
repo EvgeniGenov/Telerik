@@ -1,8 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\bin\Debug\ReverseString.pdb
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.csprojResolveAssemblyReference.cache
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.Properties.Resources.resources
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.csproj.GenerateResource.Cache
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\StringsAndTextProcessing\ReverseString\obj\Debug\ReverseString.pdb

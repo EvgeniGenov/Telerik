@@ -1,5 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\GetLargestNumber\bin\Debug\GetLargestNumber.pdb
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\GetLargestNumber\obj\Debug\GetLargestNumber.pdb

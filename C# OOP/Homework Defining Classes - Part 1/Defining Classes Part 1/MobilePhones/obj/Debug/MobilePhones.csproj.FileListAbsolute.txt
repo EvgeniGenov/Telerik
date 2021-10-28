@@ -1,9 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\bin\Debug\MobilePhones.exe.config
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\bin\Debug\MobilePhones.exe
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\bin\Debug\MobilePhones.pdb
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\obj\Debug\MobilePhones.csprojResolveAssemblyReference.cache
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\obj\Debug\MobilePhones.exe
-C:\Users\Sacred\Desktop\Telerik\OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\obj\Debug\MobilePhones.pdb
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\bin\Debug\MobilePhones.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\obj\Debug\MobilePhones.exe
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 1\Defining Classes Part 1\MobilePhones\obj\Debug\MobilePhones.pdb

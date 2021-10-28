@@ -1,2 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\StartUp\bin\Debug\StartUp.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache

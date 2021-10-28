@@ -1,6 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\bin\Debug\TriangleSurfaceByThreeSides.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\bin\Debug\TriangleSurfaceByThreeSides.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\bin\Debug\TriangleSurfaceByThreeSides.pdb
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\obj\Debug\TriangleSurfaceByThreeSides.csprojResolveAssemblyReference.cache
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\obj\Debug\TriangleSurfaceByThreeSides.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceByThreeSides\obj\Debug\TriangleSurfaceByThreeSides.pdb

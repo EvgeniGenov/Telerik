@@ -1,6 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe.config
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\MultidimensionalArrays.pdb
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\FillTheMatrix.csprojResolveAssemblyReference.cache
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.exe
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\MultidimensionalArrays.pdb

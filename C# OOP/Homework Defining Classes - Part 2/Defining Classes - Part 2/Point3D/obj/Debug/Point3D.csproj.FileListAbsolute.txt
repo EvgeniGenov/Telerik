@@ -1,1 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Point3D\bin\Debug\Point3D.exe.config

@@ -1,1 +1,0 @@
-C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\NFactorial\bin\Debug\NFactorial.exe.config
