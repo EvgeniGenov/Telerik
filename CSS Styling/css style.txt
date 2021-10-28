@@ -1,0 +1,321 @@
+<link rel="stylesheet" href="././style.css">
+
+друг css в css файла:
+@import url("style.css");
+
+loremIpsum.com - латински текстове
+
+
+.nav-item{
+display: inline-block;  = прави ги едно след друго
+padding: 10 px - разстоянието между тях
+border solid black; - рамка солидно черно
+}
+
+font-family: arial, verdana, san-serif... - шрифтове; сан-шериф - без ченгелчета,
+
+@font-face{ - за различни шрифтове
+font-family: SketchRockwell; -кръщава се
+src: url('сайт');
+}
+
+
+
+font-weight: bold, normal, bolder, lighter или стойности от 100-900 - ако искаме ентър таговете да нямат подчертаване - none
+font-style: italic, normal, oblique;
+font-size: v body ->> 16 px, v textovete - >> 1.7 em; - размер на шрифта - xx-small, x-small, small, medium, large, x-large, xx-large, smaller, larger or numeric value;
+text-align: left, right, center, justify - подравняване
+line-height: 16px; - разширяване на редовете;
+text-decoration: underline, none, line-trough, overline
+text-shadow: 2px 5px 27 px rgba(178, 0, 255, 0.78) - сянка хоризонтал/ вертинал/ дебелина на сянка
+
+text-overflow: clip, ellipsis - текст извън контейнера
+
+white-space: nowrap - казва текста да е на 1 ред -  скрива текста на един ред с многоточие;
+overflow: scroll, hidden; - скролва текст
+
+width:  20% 200 px;
+height: 100 px;
+font-size: 30px;
+
+
+
+ .font-size-ems{
+font-size: 1.7rem;
+}
+
+
+
+РАМКА:
+border-width: thin, medium, thick or numerical value (10px)
+border-color:
+border-style: none, hidden, dotted, dashed, solid, double, groove, ridge, inset, outset
+border-top-style:
+border-top-color:
+border-bottom-style:
+border-left-color:
+border-right-style:
+border-width: 50px 18px 0;
+
+
+закръгляне на ръбове:
+border-radius: 15px 15px 15px 10px;
+border-top-left-radius: 15px
+
+
+background-position: top left;
+background-position: -5px 50%;
+
+background-image: url("back.gif") repeat-x #rrr; ако не намери картинката, да зареди цвят
+
+background-repeat: repeat-x, repeat-y, repeat, no-repeat; повтаря картинката, ако е малка
+background-attachment: fixet/scroll;
+
+Преливки:
+
+gradient generator Ultimate CSS
+
+.linear-gradient{
+/Firefox/
+background:
+-moz-linear-gradient(100% 100% 90deg, #FFFF00, #0000FF);
+
+/Safari 4-5, Chrome 1-9/
+background: - webkit-gradient(linear, 0%, 0%, 0% 100%, from (#000FF), to (#FFFF00));
+/Safari 5.1 + Chrome 10+/
+background: - webkit-linear-gradient(#FFF00, #0000FF);
+
+/Opera 11.10/
+background: -o-linear-gradient(#2F2727, #0000FF);
+
+
+ПРОЗРАЧНОСТ:
+
+.half-visible{
+opacity: 0.3;
+}
+
+
+* - хваща всички тагове - със слаба сила, ако няма други селектори
+
+* {   - в началото.
+margin: 0;
+padding: 0;
+font-size;
+
+}
+
+
+
+
+float: right, left, center
+
+img + . link = търси клас линк, който се намира непосредствено след имидж.
+li > a - избери ми всички li, преки наследници на а
+
+li.nav-item.text-orange - всички ЛИ с клас нав и клас текст
+
+a[title] {
+color: black;
+}
+
+input[type=text] {
+font-family: Consolas;
+}
+
+
+a [title*= logo]{} - в името да има думичката лого
+а [title^= logo]{} - всички ID, които започват с този текст
+а [title&= "logo"]{} - всички id, които завършват с този текст
+
+а:hover {   - прави сянка под активен елемнт - линк, снимка
+text-decoration: underline;
+color:red;
+background-color: green;
+box-shadow: 0 0 10px #rrr;
+}
+
+a:visited {  - сменя цвета на посетени линкове
+color: yellow;
+}
+
+a:active/ a:lang;
+
+
+
+
+p:first-line{ - първи ред настройки
+color: black;
+}
+
+
+p:first-letter{} - първата буква
+
+
+
+nav li:hover li {
+display: block; - падащо меню
+width: 100 px;
+}
+
+position: relative;
+
+positon: absolute;
+top: 90%;
+left: 90%, 9 px; -8 px;
+display: none;
+
+
+а:before{
+content: ">>>"}
+
+a:after{
+content: "<<<"
+} - сложи преди и след нещо някакъв елемент;
+
+:root - 
+
+а:nth-child(2n){
+background-color: red;
+} - всеки четен елемент сменя фона
+
+
+a:nth-last-child(n){}
+
+a:nth-last-of-type(n) {}
+
+a:first-child{} - oцветява само първия елемент
+a:last-child{} - всички последни
+a:first-of-type{}
+a:last-of-type{}
+
+a:only-child{} - единствени;
+a:only-of-type{} - ако е единствен елемент;
+
+а:empty{} - всички празни елементи, без контект в тях;
+
+
+a:anabled{} - за радио бутони, активни, не активни
+
+a:disabled{}
+
+a:checked{} - за чекбокси
+
+input[type=chekbox][cheked=checked]
+
+a:target{} - препраща към нещо на страницата
+
+a:not(class) - всички а, които не са клас
+
+colors:
+
+rgba (255, 0, 0, 0.5) - последната ст/ст е за наситеност на цвета
+
+
+
+LAYOUT:
+
+width: 50 px - ширина
+min-width: 100 px - задава мин ширина
+max-width: 100 px
+
+height - височина
+min-height
+max-height
+
+font-size: 20 px;
+
+font-size: 1rem; = на пикселите спрямо целия сайт;
+
+font-size: 1em; - взема се от фонт-сайза; 1х 20 пь
+
+
+
+overflow  = как би се държал някой елемент, ако не може да побере контента си.
+
+overflow: hidden;- скрива
+overflow: visible;
+overflow: auto; - слага скрол
+overflow: scroll; - слага скрол
+
+
+display = подрежда елементите
+
+display: inline;
+display: inline-block;
+display: block;
+display: flex; - подреждат се дефолтно в редове;
+display: none; не се вижда на страницата и размера му го няма, но е в тялото
+
+
+visibility: hidden; не се вижда, но размера му стои на страницата и спрямо другите елементи.
+visibility: collapse; - не се вижда, но размера седи на страницата.
+
+border: 10px solid black;
+
+MARGIN AND PADDING:
+
+margin-top;
+padding-right: -разстояние между елементите в контейнера
+padding-left;
+padding-top;
+padding-bottom;
+
+съкратен запис:
+
+margin: 10px 20px 30px 10px = започва от горе по часовниковата стрелка
+
+
+BOX MODEL:
+
+box-sizing: content-box; - фиксира размера на контента в контейнера
+box-sizing: border-box; - фиксира размера на контейнера;
+
+POSITION: - позиционира елементите
+position: static; - дефолтна позиция, може да не се пише;
+position: relative; - спрямо позицията, на която ще се намира по принцип;
+position: absolute; - спрямо руут елемента, родителския елемент
+position: fixed; - замразява дива,
+
+top
+left
+bottom
+right
+
+z-index: 
+
+display: inline-block;
+vertical-align: middle;
+
+FLOAT:
+
+float: left (right) both;
+clear: left (right) both = изтрива флоат елементите преди това.
+
+FLEXBOX:
+
+display: flex;
+flex-direction: row | row-reverce | column | column-reverse;
+
+flex-wrap: wrap; - прехвърля на нов ред;
+flex-wrap: nowrap | wrap | wrap-reverse;
+flex-flow: flex-direction || flex-wrap
+
+justify-content: flex-start | flex-end | center | space-between | space-around
+
+
+align-items: flex-start | flex-end | center | baseline | Stretch
+align-content: flex-star | flex-end | center | space-between
+align-self: flex-star | flex-end | center | space-between    -- за един елемент
+
+order: подрежда
+
+flex-grow: разпределя място между контенти в див
+flex-shrink - свива елемента
+flex-basics: auto - дефолтно в пиксели - колко да бъдат широки
+
+
+
+
+
+
