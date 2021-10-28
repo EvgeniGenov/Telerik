@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\SequenceInMatrix\bin\Debug\SequenceInMatrix.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 02. Multidimensional Arrays\MultidimensionalArrays\SequenceInMatrix\obj\Debug\SequenceInMatrix.pdb

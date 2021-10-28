@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\bin\Debug\IntDoubleAndString.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\bin\Debug\IntDoubleAndString.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\bin\Debug\IntDoubleAndString.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\obj\Debug\IntDoubleAndString.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\obj\Debug\IntDoubleAndString.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\IntDoubleAndString\IntDoubleAndString\obj\Debug\IntDoubleAndString.pdb

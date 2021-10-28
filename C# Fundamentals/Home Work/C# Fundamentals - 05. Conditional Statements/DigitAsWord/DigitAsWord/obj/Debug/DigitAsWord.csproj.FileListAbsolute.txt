@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\DigitAsWord\DigitAsWord\bin\Debug\DigitAsWord.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\DigitAsWord\DigitAsWord\obj\Debug\DigitAsWord.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\DigitAsWord\DigitAsWord\obj\Debug\DigitAsWord.pdb

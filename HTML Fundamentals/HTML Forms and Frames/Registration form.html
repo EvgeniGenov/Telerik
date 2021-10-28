@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>Registration form</title>
+</head>
+
+<body>
+    <form method="GET" action="./submit.html">
+
+        <table width="40%" frame="box" border="1" cellspacing="0" cellpadding="3">
+            <tr>
+                <td align="right"><b>Last Name</b></td>
+                <td colspan="3"><input type="text" maxlength="100" name="Last name" value="Nakov"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>First Name</b></td>
+                <td colspan="3"><input type="text" maxlength="100" name="First name" value="Svetlin"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Address</b></td>
+                <td colspan="3"><textarea name="address" id="address" maxlength="200" cols="30" rows="5">17 Hristo Botev str. floor 3, apt.12</textarea></td>
+            </tr>
+            <tr>
+                <td align="right"><b>City</b></td>
+                <td><input type="text" name="City" value="Kaspichan">
+                    <td align="right"><span><b>State </b></span></td>
+                </td>
+                <td><input type="text" name="State"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Zip/Postal Code</b></td>
+                <td colspan="3"><input type="number" min="00001" max="99999" maxlength="5" name="Postal code" pattern="[0-9]{4,6}" value="9325"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Country</b></td>
+                <td colspan="3">
+                    <select name="Country" id="">
+                <option value="Country1"> Bulgaria </option>
+                <option value="Country2"> Greece </option>
+                <option value="Country3"> Turkey </option>
+                </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right"><b>Phone (country code, area code, number)</b></td>
+                <td colspan="3">(+<input type="number" maxlength="4" size="3" min="0" max="9999" pattern="[0-9]{4}" value="359">)
+                    <input type="number" maxlength="2" size="2" min="0" max="99" pattern="[0-9]{2}" value="88">
+                    <input type="number" maxlength="7" size="7" min="0" max="9999999" pattern="[0-9]{7}" value="8334343">
+                </td>
+            </tr>
+            <tr>
+                <td align="right"><b>E-mail</b></td>
+                <td colspan="3"><input type="text" name="E-mail" pattern="[a-zA-Z0-9_.]{3,}@[a-zA-z0-9_]{3,}.[a-zA-Z0-9_]{2,5}" value="nakov@kaspichan.org"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Birth date</b></td>
+                <td colspan="3"> Month <input type="number" min="1" max="12" maxlength="2" size="2" pattern="[0-9]{2}" value="06"> Date <input type="number" min="1" max="31" maxlength="2" size="2" pattern="[0-9]{2}" value="14"> Year (4 digit)<input type="number" min="1900"
+                        max="2002" maxlength="4" size="4" pattern="[0-9]{4}" value="1980"></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Gender</b></td>
+                <td colspan="3">
+                    <select name="Gender" id="gender">
+                <option value="Gender1"> Male </option>
+                <option value="Gender2"> Female </option>
+                </select>
+                </td>
+            </tr>
+            <tr>
+                <td align="right"><b>Starting date</b></td>
+                <td colspan="3"><input checked="checked" id="spring" type="radio" name="startingDate" value="Spring 2006"><label for="spring">Spring 2006</label>
+                    <input id="summer" type="radio" name="startingDate" value="Summer 2006"><label for="summer">Summer 2006</label></td>
+            </tr>
+            <tr>
+                <td align="right"><b>Comments/Questions</b></td>
+                <td colspan="3"><textarea name="comments" id="comments" maxlength="200" cols="30" rows="5">Please send me more information about the lodging.</textarea>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="4" align="center" bgcolor="#CEF6F5"><input type="submit" name="Submit" value="Submit">
+                    <input type="reset" name="reset" value="Clear This Form">
+                </td>
+            </tr>
+
+        </table>
+
+
+    </form>
+</body>
+<footer>
+    <a href="././University grid.html"> Към задача 2 >>></a>
+</footer>
+
+</html>

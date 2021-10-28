@@ -1,0 +1,9 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\bin\Debug\Speeds.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\bin\Debug\Speeds.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\bin\Debug\Speeds.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\obj\Debug\Speeds.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\obj\Debug\Speeds.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\Speeds\obj\Debug\Speeds.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\Speeds\bin\Debug\Speeds.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\Speeds\obj\Debug\Speeds.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\Speeds\obj\Debug\Speeds.pdb

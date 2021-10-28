@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\EnglishDigit\bin\Debug\EnglishDigit.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\EnglishDigit\obj\Debug\EnglishDigit.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 03. Methods\Methods\EnglishDigit\obj\Debug\EnglishDigit.pdb

@@ -1,0 +1,5 @@
+Point Coordinates: (2, 2, 2)
+Point Coordinates: (3, 3, 3)
+Point Coordinates: (4, 4, 4)
+Point Coordinates: (5, 5, 5)
+Point Coordinates: (6, 6, 6)

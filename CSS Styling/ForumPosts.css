@@ -1,0 +1,84 @@
+body {
+    background-color: dimgray
+}
+
+body>footer {
+    text-align: center;
+    vertical-align: bottom;
+}
+
+body>header>h1 {
+    font-size: 2.5em;
+    text-align: center
+}
+
+nav>ul {
+    font-size: 1.3em;
+    text-align: center;
+    list-style-type: none
+}
+
+.current {
+    background-color: lightgray;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul>li:last-child {
+    text-decoration: underline;
+}
+
+li>a:link {
+    color: whitesmoke
+}
+
+li>a:visited {
+    color: whitesmoke
+}
+
+li>a:hover {
+    color: lightslategray
+}
+
+li>a:active {
+    background-color: whitesmoke
+}
+
+h1 {
+    font-size: 1.5em;
+    color: khaki
+}
+
+footer>p {
+    font-size: 0.8em;
+}
+
+p>a:link {
+    color: black;
+}
+
+p>a:visited {
+    color: black;
+}
+
+p>a:hover {
+    color: lightslategray;
+}
+
+footer>a:link {
+    color: black;
+}
+
+footer>a:visited {
+    color: black;
+}
+
+footer>a:hover {
+    background: rgb(191, 210, 85);
+    background: -moz-linear-gradient(top, rgb(191, 210, 85) 0%, rgb(142, 185, 42) 50%, rgb(114, 170, 0) 51%, rgb(158, 203, 45) 100%);
+    background: -webkit-linear-gradient(top, rgb(191, 210, 85) 0%, rgb(142, 185, 42) 50%, rgb(114, 170, 0) 51%, rgb(158, 203, 45) 100%);
+    background: linear-gradient(to bottom, rgb(191, 210, 85) 0%, rgb(142, 185, 42) 50%, rgb(114, 170, 0) 51%, rgb(158, 203, 45) 100%);
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#bfd255', endColorstr='#9ecb2d', GradientType=0);
+}

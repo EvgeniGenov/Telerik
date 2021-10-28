@@ -1,0 +1,49 @@
+body {
+    background-color: #FBEFFB;
+}
+
+h1 {
+    color: hotpink;
+    text-align: center;
+    font-weight: normal;
+}
+
+h3 {
+    color: hotpink;
+    margin-top: 15px;
+}
+
+nav {
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    
+}
+.accordion a:hover {
+    cursor: pointer;
+    color: #DC522F;
+}
+
+.a2 {
+    background-color: lightsteelblue;
+}
+
+.a4 {
+    text-decoration: underline;
+}
+
+p {
+    font-family: Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+    width: 98%;
+    text-align: justify;
+    padding: 10px;
+}
+
+footer {
+    font-size: 14px;
+}

@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\CompareArrays\CompareArrays\bin\Debug\CompareArrays.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\CompareArrays\CompareArrays\bin\Debug\CompareArrays.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\CompareArrays\CompareArrays\obj\Debug\CompareArrays.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\CompareArrays\CompareArrays\obj\Debug\CompareArrays.pdb

@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\bin\Debug\Distance.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\bin\Debug\Distance.exe
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\bin\Debug\Distance.pdb
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\obj\Debug\DefiningClasses.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\obj\Debug\Distance.exe
+C:\Users\Sacred\Desktop\Telerik\C# OOP\Homework Defining Classes - Part 2\Defining Classes - Part 2\Distance\obj\Debug\Distance.pdb

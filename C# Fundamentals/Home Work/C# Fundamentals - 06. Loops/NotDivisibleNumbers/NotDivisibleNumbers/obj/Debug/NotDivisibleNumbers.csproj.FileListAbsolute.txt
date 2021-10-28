@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\NotDivisibleNumbers\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb

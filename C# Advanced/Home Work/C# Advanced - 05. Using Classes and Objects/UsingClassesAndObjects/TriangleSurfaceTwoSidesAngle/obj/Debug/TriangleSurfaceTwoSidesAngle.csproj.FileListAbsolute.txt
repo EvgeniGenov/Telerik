@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceTwoSidesAngle\bin\Debug\TriangleSurfaceTwoSidesAngle.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceTwoSidesAngle\obj\Debug\TriangleSurfaceTwoSidesAngle.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 05. Using Classes and Objects\UsingClassesAndObjects\TriangleSurfaceTwoSidesAngle\obj\Debug\TriangleSurfaceTwoSidesAngle.pdb

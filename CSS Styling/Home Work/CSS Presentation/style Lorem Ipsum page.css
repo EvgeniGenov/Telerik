@@ -1,0 +1,36 @@
+* {
+    padding: 4px;
+    margin: 2px;
+}
+
+h4 {
+    top: 80%;
+    font-style: italic;
+    font-variant: normal;
+    line-height: 23px;
+    font-size: 20px;
+    font-weight: none;
+    font-style: 'Mon Amour Two Medium', arial;
+    color: #56bfff;
+}
+
+h4:first-letter {
+    font-family: 'Mon Amour Two Medium', arial;
+    font-size: 30px;
+}
+
+p {
+    top: 80%;
+    font-style: italic;
+    padding-right: 350px;
+    padding-top: 0px;
+    margin-top: -2px;
+    font-variant: normal;
+    line-height: 23px;
+    font-size: 20px;
+    font-weight: none;
+    font-style: Bikham Cyr Script;
+    color: #56bfff;
+}
+
+p:first-Letter {}

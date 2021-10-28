@@ -1,0 +1,27 @@
+table {
+    background-color: #F7F4E9;
+    border: 0.2px solid lightgrey;
+}
+
+td {
+    width: 120px;
+    font-family: Arial, sans-serif;
+    font-size: 10pt;
+}
+
+.content {
+    background-color: mediumseagreen;
+    color: #F7F4E9;
+}
+
+.info:nth-child(2n-1) {
+    background-color: #E6E6E6;
+}
+
+tr td input[type=checkbox] {
+    box-shadow: 2px 2px 0px 0px #878383;
+}
+
+body a {
+    color: black;
+}

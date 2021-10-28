@@ -1,0 +1,1 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\MaximalKSum\MaximalKSum\bin\Debug\MaximalKSum.exe.config

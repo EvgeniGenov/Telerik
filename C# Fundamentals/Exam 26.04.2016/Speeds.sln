@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Speeds", "Speeds\Speeds.csproj", "{A755E608-F7B7-41B8-8446-E22D33E92007}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumofOddDivisors", "SumofOddDivisors\SumofOddDivisors.csproj", "{DC3712EF-B4F9-4C7E-8305-19ADCE81B913}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A755E608-F7B7-41B8-8446-E22D33E92007}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A755E608-F7B7-41B8-8446-E22D33E92007}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A755E608-F7B7-41B8-8446-E22D33E92007}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A755E608-F7B7-41B8-8446-E22D33E92007}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC3712EF-B4F9-4C7E-8305-19ADCE81B913}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC3712EF-B4F9-4C7E-8305-19ADCE81B913}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC3712EF-B4F9-4C7E-8305-19ADCE81B913}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC3712EF-B4F9-4C7E-8305-19ADCE81B913}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

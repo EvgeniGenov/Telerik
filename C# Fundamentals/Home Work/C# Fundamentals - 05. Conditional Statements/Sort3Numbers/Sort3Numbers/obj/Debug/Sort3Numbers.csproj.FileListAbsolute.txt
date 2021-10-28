@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\Sort3Numbers\Sort3Numbers\bin\Debug\Sort3Numbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\Sort3Numbers\Sort3Numbers\obj\Debug\Sort3Numbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\Sort3Numbers\Sort3Numbers\obj\Debug\Sort3Numbers.pdb

@@ -1,0 +1,12 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\bin\Debug\MythicalNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MythicalNumbers\obj\Debug\MythicalNumbers.csprojResolveAssemblyReference.cache

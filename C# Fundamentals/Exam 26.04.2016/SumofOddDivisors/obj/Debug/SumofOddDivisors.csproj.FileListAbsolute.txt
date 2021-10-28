@@ -1,0 +1,9 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\bin\Debug\SumofOddDivisors.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\bin\Debug\SumofOddDivisors.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\bin\Debug\SumofOddDivisors.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\obj\Debug\SumofOddDivisors.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\obj\Debug\SumofOddDivisors.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Speeds\SumofOddDivisors\obj\Debug\SumofOddDivisors.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\SumofOddDivisors\bin\Debug\SumofOddDivisors.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\SumofOddDivisors\obj\Debug\SumofOddDivisors.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 26.04.2016\SumofOddDivisors\obj\Debug\SumofOddDivisors.pdb

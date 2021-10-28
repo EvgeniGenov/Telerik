@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\bin\Debug\MMSAofNNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\MMSAofNNumbers\MMSAofNNumbers\obj\Debug\MMSAofNNumbers.pdb

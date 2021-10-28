@@ -1,0 +1,9 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Home Work\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\bin\Debug\ExchangeIfGreater.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Home Work\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Home Work\C# Fundamentals - 05. Conditional Statements\ExchangeIfGreater\ExchangeIfGreater\obj\Debug\ExchangeIfGreater.pdb

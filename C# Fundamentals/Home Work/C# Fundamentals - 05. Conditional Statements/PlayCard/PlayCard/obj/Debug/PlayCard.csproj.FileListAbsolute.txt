@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\bin\Debug\PlayCard.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\bin\Debug\PlayCard.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\bin\Debug\PlayCard.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\obj\Debug\PlayCard.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\obj\Debug\PlayCard.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\PlayCard\PlayCard\obj\Debug\PlayCard.csprojResolveAssemblyReference.cache

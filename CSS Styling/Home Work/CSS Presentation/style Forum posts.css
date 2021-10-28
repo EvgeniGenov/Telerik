@@ -1,0 +1,107 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#5996cd+0,5996cd+100 */
+    background: #5996cd;
+    /* Old browsers */
+    background: -moz-linear-gradient(top, #5996cd 0%, #5996cd 100%);
+    /* FF3.6-15 */
+    background: -webkit-linear-gradient(top, #5996cd 0%, #5996cd 100%);
+    /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to bottom, #5996cd 0%, #5996cd 100%);
+    /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#5996cd', endColorstr='#5996cd', GradientType=0);
+    /* IE6-9 */
+    ;
+}
+
+.header img {
+    width: 300px;
+    margin: 0px;
+}
+
+.login {
+    float: right;
+    display: inline-table;
+    margin: 10px;
+}
+
+.nav dl li {
+    display: inline-block;
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+a:visited {
+    color: lightcoral;
+}
+
+a:hover {
+    color: #58D3F7;
+}
+
+.nav {
+    border: 1px solid darkblue;
+    margin-left: 10px;
+    margin-right: 400px;
+    margin-top: 10px;
+    border-radius: 15px 15px 15px 10px;
+    color: lightgrey;
+}
+
+.main-left1,
+.main-left2,
+.main-left3 {
+    border: 1px solid darkblue;
+    margin-left: 10px;
+    margin-right: 400px;
+    margin-top: 10px;
+    font-size: medium;
+    padding: 10px;
+    border-radius: 15px 15px 15px 10px;
+    color: #F2F2F2;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-right1 {
+    float: right;
+    border: 1px solid darkblue;
+    border-radius: 15px 15px 15px 10px;
+    color: #F2F2F2;
+    margin-left: 1000px;
+    margin-top: -550px;
+    padding: 10px;
+    font-size: medium;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-right2 {
+    float: right;
+    border: 1px solid darkblue;
+    border-radius: 15px 15px 15px 10px;
+    color: #F2F2F2;
+    margin-left: 1000px;
+    margin-top: -450px;
+    padding: 10px;
+    font-size: medium;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-right3 {
+    float: right;
+    border: 1px solid darkblue;
+    border-radius: 15px 15px 15px 10px;
+    color: #F2F2F2;
+    margin-left: 1000px;
+    margin-top: -350px;
+    padding: 10px;
+    font-size: medium;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+}

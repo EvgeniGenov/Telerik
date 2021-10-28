@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\bin\Debug\BiggestOf5.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\bin\Debug\BiggestOf5.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\bin\Debug\BiggestOf5.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\obj\Debug\BiggestOf5.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\obj\Debug\BiggestOf5.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf5\BiggestOf5\obj\Debug\BiggestOf5.csprojResolveAssemblyReference.cache

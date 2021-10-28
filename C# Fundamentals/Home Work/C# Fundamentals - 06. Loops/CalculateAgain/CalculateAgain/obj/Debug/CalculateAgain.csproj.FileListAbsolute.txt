@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\bin\Debug\CalculateAgain.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\bin\Debug\CalculateAgain.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\bin\Debug\CalculateAgain.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\obj\Debug\CalculateAgain.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\obj\Debug\CalculateAgain.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 06. Loops\CalculateAgain\CalculateAgain\obj\Debug\CalculateAgain.csprojResolveAssemblyReference.cache

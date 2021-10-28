@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Windows Calculator</title>
+		<link rel="stylesheet" type="text/css" href="cal.css">
+	</head>
+	<body>
+		<main id="wrapper">
+			<p id="top-left">Calculator</p>
+			<div id="win">
+			<input type="image" src="images/min.png"  id="min" />
+			<input type="image" src="images/zoom.png" id="zoom"/>
+			<input type="image" src="images/exit.png" id="exit"/>
+			</div>
+			<div id="main">
+				<ul>
+					<li>View</li>
+					<li>Edit</li>
+					<li>Help</li>
+				</ul>
+				<form id="content">
+					<table id="big-table">
+						<tbody>
+							<tr>
+								<td colspan="10" id="output">8854455</td>
+							</tr>
+							<tr>
+								<td colspan="10" >
+									<table id="inner-table">
+										<tbody>
+											<tr>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                </tr>
+                                <tr>
+                                    <td class="left">63</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="left">47</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="right">32</td>
+                                </tr>
+                                <tr>
+                                    <td>0000</td>
+                                    <td>0000</td>
+                                    <td>1000</td>
+                                    <td>0111</td>
+                                    <td>0001</td>
+                                    <td>1011</td>
+                                    <td>1011</td>
+                                    <td>0000</td>
+                                </tr>
+                                <tr>
+                                    <td class="left">31</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="left">15</td>
+                                    <td></td>
+                                    <td></td>
+                                    <td class="right">0</td>
+                                </tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2" rowspan="3" class="radio">
+									<input type="radio" name="hex" value="Hex">
+									<label for="" class="input">Hex</label><br>
+									<input type="radio" name="dec" value="Dec" checked="checked">
+									<label for="" class="input">Dec</label><br>
+									<input type="radio" name="oct" value="Oct">
+									<label for="" class="input">Oct</label><br>
+									<input type="radio" name="bin" value="Bin">
+									<label for="" class="input">Bin</label>
+								</td>
+								<td >
+									<input type="submit" name="empty" value=" " id="pale1">
+								</td>
+								<td >
+									<input type="submit" name="mod" value="Mod">
+
+								</td>
+								<td >
+									<input type="submit" name="a" value="A" id="pale2">
+								</td>
+								<td >
+									<input type="submit" name="mc" value="MC" id="pale3">
+								</td>
+								<td >
+									<input type="submit" name="mr" value="MR" id="pale4">
+								</td>
+								<td >
+									<input type="submit" name="ms" value="MS" id="pale5">
+								</td>
+								<td >
+									<input type="submit" name="m+" value="M+" id="pale6">
+								</td>
+								<td >
+									<input type="submit" name="m-" value="M-" id="pale7">
+								</td>
+							</tr>
+							<tr>
+								
+								<td >
+									<input type="submit" name="open-bracket" value="(">
+								</td>
+								<td >
+									<input type="submit" name="close-bracket" value=")">
+
+								</td>
+								<td colspan="" rowspan="" headers="">
+									<input type="submit" name="b" value="B" id="pale8">
+								</td>
+								<td >
+									<input type="submit" name="minus" value="&#8592;">
+								</td>
+								<td >
+									<input type="submit" name="ce" value="CE">
+								</td>
+								<td >
+									<input type="submit" name="c" value="C">
+								</td>
+								<td >
+									<input type="submit" name="plus-minus" value="&#177;">
+								</td>
+								<td >
+									<input type="submit" name="sqrt" value="&radic;" id="pale9">
+								</td>
+							</tr>
+							<tr>
+								
+								<td >
+									<input type="submit" name="rol" value="Rol">
+								</td>
+								<td >
+									<input type="submit" name="ror" value="RoR">
+
+								</td>
+								<td >
+									<input type="submit" name="c" value="C" id="pale10">
+								</td>
+								<td class="num">
+									<input type="submit" name="seven" value="7">
+								</td>
+								<td class="num">
+									<input type="submit" name="eight" value="8">
+								</td>
+							    <td class="num">
+									<input type="submit" name="nine" value="9">
+								</td>
+								<td >
+									<input type="submit" name="slash" value="/">
+								</td>
+								<td >
+									<input type="submit" name="procent" value="%" id="pale11">
+								</td>
+							</tr>
+							<tr>
+								<td colspan="2" rowspan="3" headers="" class="radio">
+									<input type="radio" name="qword" value="Qword" checked="checked">
+									<label for="" class="input">Hex</label><br>
+									<input type="radio" name="dword" value="Dword">
+									<label for="" class="input">Dec</label><br>
+									<input type="radio" name="word" value="Word">
+									<label for="" class="input">Oct</label><br>
+									<input type="radio" name="byte" value="Byte">
+									<label for="" class="input">Bin</label>
+								</td>
+								<td>
+									<input type="submit" name="or" value="Or">
+								</td>
+								<td>
+									<input type="submit" name="xor" value="Xor">
+
+								</td>
+								<td >
+									<input type="submit" name="d" value="D" id="pale12">
+								</td>
+								<td class="num">
+									<input type="submit" name="four" value="4">
+								</td>
+								<td class="num">
+									<input type="submit" name="five" value="5">
+								</td>
+								<td class="num">
+									<input type="submit" name="six" value="6">
+								</td>
+								<td >
+									<input type="submit" name="star" value="*">
+								</td>
+								<td >
+									<input type="submit" name="one-above-x" value="1/x" id="pale13">
+								</td>
+							</tr>
+							<tr>
+								
+								<td >
+									<input type="submit" name="lsh" value="Lsh">
+								</td>
+								<td >
+									<input type="submit" name="rsh" value="Rsh">
+
+								</td>
+								<td >
+									<input type="submit" name="e" value="E" id="pale14">
+								</td>
+								<td >
+									<input type="submit" name="one" value="1" id="one">
+								</td>
+								<td class="num">
+									<input type="submit" name="two" value="2">
+								</td>
+								<td class="num">
+									<input type="submit" name="three" value="3">
+								</td>
+								<td >
+									<input type="submit" name="minus" value="-">
+								</td>
+								<td rowspan="2">
+									<input type="submit" name="equal" value="=" id="eq">
+								</td>
+							</tr>
+							<tr>
+								
+								<td >
+									<input type="submit" name="not" value="Not">
+								</td>
+								<td>
+									<input type="submit" name="and" value="And">
+
+								</td>
+								<td>
+									<input type="submit" name="f" value="F" id="pale15">
+								</td>
+								<td colspan="2">
+									<input type="submit" name="zero" value="0">
+								</td>
+								<td >
+									<input type="submit" name="dot" value="." id="pale16">
+								</td>
+								<td >
+									<input type="submit" name="plus" value="+">
+								</td>
+								
+							</tr>
+						</tbody>
+					</table>
+				</form>
+			</div>
+		</main>
+	</body>
+</html>

@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\MultiplicationSign\MultiplicationSign\bin\Debug\MultiplicationSign.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\MultiplicationSign\MultiplicationSign\obj\Debug\MultiplicationSign.pdb

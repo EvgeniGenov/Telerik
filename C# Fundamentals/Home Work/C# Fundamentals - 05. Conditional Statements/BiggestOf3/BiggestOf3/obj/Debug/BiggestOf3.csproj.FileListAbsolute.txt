@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf3\BiggestOf3\bin\Debug\BiggestOf3.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf3\BiggestOf3\bin\Debug\BiggestOf3.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf3\BiggestOf3\bin\Debug\BiggestOf3.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf3\BiggestOf3\obj\Debug\BiggestOf3.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 05. Conditional Statements\BiggestOf3\BiggestOf3\obj\Debug\BiggestOf3.pdb

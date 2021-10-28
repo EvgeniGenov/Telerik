@@ -1,0 +1,12 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\bin\Debug\MixingNumbers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\MixingNumbers\obj\Debug\MixingNumbers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\bin\Debug\HiddenMessage.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\bin\Debug\HiddenMessage.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\bin\Debug\HiddenMessage.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\obj\Debug\HiddenMessage.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\obj\Debug\HiddenMessage.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\Exam 10.11.2016\Exam 10.11.2016\HiddenMessage\obj\Debug\HiddenMessage.pdb

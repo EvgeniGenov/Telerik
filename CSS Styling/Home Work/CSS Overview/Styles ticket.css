@@ -1,0 +1,61 @@
+table,
+th,
+td {
+    background-color: #585858;
+    border-collapse: collapse;
+    padding: 5px;
+    font-family: Arial, sans-serif;
+    font-size: 12px;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+th {
+    color: lightgray;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.questions {
+    color: beige;
+    font-style: italic;
+}
+
+.name {
+    color: #F2F5A9;
+}
+
+.name:first-letter {
+    color: limegreen;
+}
+
+.active {
+    color: red;
+    font-weight: bold;
+}
+
+.email {
+    color: #F2F5A9;
+}
+
+.lock,
+.time {
+    color: lightgray;
+}
+
+.post {
+    color: #F2F5A9;
+}
+
+.status {
+    color: darkorange;
+    font-weight: bold;
+}
+
+body a{
+    color: black;
+}

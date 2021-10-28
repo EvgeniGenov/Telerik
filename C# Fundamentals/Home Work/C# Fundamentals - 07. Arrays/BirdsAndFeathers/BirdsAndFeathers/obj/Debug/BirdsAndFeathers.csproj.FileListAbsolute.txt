@@ -1,0 +1,5 @@
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\BirdsAndFeathers\BirdsAndFeathers\bin\Debug\BirdsAndFeathers.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\BirdsAndFeathers\BirdsAndFeathers\bin\Debug\BirdsAndFeathers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\BirdsAndFeathers\BirdsAndFeathers\bin\Debug\BirdsAndFeathers.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\BirdsAndFeathers\BirdsAndFeathers\obj\Debug\BirdsAndFeathers.exe
+C:\Users\Sacred\Desktop\Telerik\C# Fundamentals\HomeWork\C# Fundamentals - 07. Arrays\BirdsAndFeathers\BirdsAndFeathers\obj\Debug\BirdsAndFeathers.pdb

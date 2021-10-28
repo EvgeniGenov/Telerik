@@ -1,0 +1,6 @@
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\bin\Debug\StartUp.exe.config
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\bin\Debug\StartUp.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\bin\Debug\StartUp.pdb
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\obj\Debug\StartUp.exe
+C:\Users\Sacred\Desktop\Telerik\C# Advanced\Home Work\C# Advanced - 06. Strings and Text Processing\Exam CSharp2 01-06-2016\StartUp\obj\Debug\StartUp.pdb
