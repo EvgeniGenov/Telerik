@@ -1,0 +1,55 @@
+body {
+    background-color: black;
+}
+
+.navigation ul {
+    position: relative;
+    display: inline-block;
+    color: white;
+    float: right;
+    width: 200px;
+    border: 1px solid grey;
+}
+
+.show-nav li {
+    positoin: absolute;
+    top: 90%;
+    left: -5px;
+}
+
+.file-html {
+    positoin: absolute;
+    top: 90%;
+    left: -5px;
+    display: none;
+}
+
+.nav-tabs li:hover>ul {
+    color: lightgrey;
+    display: block;
+}
+
+ol.code-lines>li {
+    color: white;
+}
+
+.selector {
+    color: greenyellow;
+}
+
+.punctuation {
+    color: yellow;
+}
+
+.property {
+    color: deepskyblue;
+}
+
+ol li:hover {
+    color: grey;
+    background-color: grey;
+}
+
+.measure {
+    color: deeppink;
+}
